@@ -1,0 +1,29 @@
+# LangChain
+langchain
+langchain-core
+langchain-community
+
+# Google Gemini
+langchain-google-genai
+google-genai
+
+# Mistral AI
+langchain-mistralai
+mistralai
+
+# Groq
+langchain-groq
+groq
+
+# Hugging Face
+langchain-huggingface
+huggingface_hub
+transformers
+sentence-transformers
+
+# Environment variables
+python-dotenv
+
+# Common dependencies
+pydantic
+requests
