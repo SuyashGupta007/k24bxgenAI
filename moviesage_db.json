@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Inception",
+    "release_year": "2010",
+    "director": "Christopher Nolan",
+    "genre": [
+      "science-fiction",
+      "psychological thriller",
+      "action-adventure"
+    ],
+    "main_cast": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Elliot Page",
+      "Tom Hardy",
+      "Ken Watanabe",
+      "Dileep Rao"
+    ],
+    "language": "English, Japanese, French",
+    "country": "United States, United Kingdom",
+    "rating": "PG-13",
+    "runtime": "148 minutes",
+    "plot_overview": "Dom Cobb, a skilled thief, uses experimental dream-sharing technology to enter people's subconscious minds and steal secrets. Offered a chance to reunite with his children if he succeeds in 'inception'—planting an idea in someone's mind—Cobb assembles a team to navigate multiple layers of dreams. His lingering memories of his deceased wife, Mal, threaten to sabotage the mission as the team grapples with the complexities of dreams, memory, guilt, reality, and the power of ideas.",
+    "budget": "$160 million",
+    "box_office_collection": "$839.8 million",
+    "_saved_at": "2026-08-27T06:22:45.707790+00:00"
+  }
+]
