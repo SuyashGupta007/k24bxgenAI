@@ -1,0 +1,12 @@
+powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex" 
+uv venv 
+.venv\Scripts\activate             
+uv add langchain         
+uv pip install langchain    
+uv pip install -r requirements.txt    
+uv pip list     
+uv run python --version 
+uv pip install -U sentence-transformers
+uv pip install torch torchvision     
+uv pip install streamlit   
+streamlit run chatmodels/UIchatbot.py
