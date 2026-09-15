@@ -22,7 +22,7 @@ llm = ChatGoogleGenerativeAI(
 
 # 3. Connect with vector store
 vectorstore = Chroma(
-    persist_directory="D:/bx24genai/chroma_db",
+    persist_directory="D:/bx24genai/vector_store/chroma_db",
     embedding_function=embedding_model
 )
 

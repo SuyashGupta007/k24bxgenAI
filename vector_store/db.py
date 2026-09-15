@@ -17,5 +17,5 @@ splitter = RecursiveCharacterTextSplitter(chunk_size=1000,chunk_overlap=100)
 chuncks = splitter.split_documents(docs)
 embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
 
-vectorstore = Chroma.from_documents(chuncks,embeddings,persist_directory="chroma_db")
+vectorstore = Chroma.from_documents(chuncks,embeddings,persist_directory="D:/bx24genai/vector_store/chroma_db")
 print("vector store created")
